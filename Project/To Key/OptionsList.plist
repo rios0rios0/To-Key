@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Key Generator</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>~EvilCode&apos;s Keygen-Me #1</string>
+			<key>info</key>
+			<string>KeyGen Function, Coded By: ~EvilCode</string>
+			<key>icon</key>
+			<string>Icon~EvilCode.png</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>KeygenMe #1</string>
+			<key>info</key>
+			<string>KeyGen Function, Coded 26/07/2006 By: Boonz</string>
+			<key>icon</key>
+			<string>IconBoonz.png</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ghost Keygen-me</string>
+			<key>info</key>
+			<string>KeyGen Function, Coded By: Dinamico</string>
+			<key>icon</key>
+			<string>IconAndrey.png</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Muckis Crackme #2</string>
+			<key>info</key>
+			<string>KeyGen Function, Coded 2006 By: Mucki</string>
+			<key>icon</key>
+			<string>IconMucki.png</string>
+		</dict>
+	</array>
+	<key>Password Programs</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>PasswordGen v1.0</string>
+			<key>info</key>
+			<string>Password Program, Created By: Felipe Rios</string>
+			<key>icon</key>
+			<string>IconFelipe.png</string>
+		</dict>
+	</array>
+</dict>
+</plist>
